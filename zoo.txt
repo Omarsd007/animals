@@ -1,4 +1,5 @@
-Elegant
-Duck
-Tiger
-.
+ batata
+snake
+eagle
+dolphin
+
